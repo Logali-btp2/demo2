@@ -6,7 +6,7 @@ metadata:
     scenarios.ai.sap.com/description: "First flow in SAP AI Core"
     scenarios.ai.sap.com/name: "scenario1"
     executables.ai.sap.com/description: "Send Message"
-    executables.ai.sap.com/name: "Hi Logali"
+    executables.ai.sap.com/name: "Hi Community LG"
   labels:
     scenarios.ai.sap.com/id: "scenario1"
     ai.sap.com/version: "1.0"
@@ -26,4 +26,4 @@ spec:
         - '-c'
       args:
        - |
-        print("HI Community LogaliGroup - SAP AI Core")
+        print("Hi Community LogaliGroup - SAP AI Core")

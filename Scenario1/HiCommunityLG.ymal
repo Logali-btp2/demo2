@@ -27,4 +27,3 @@ spec:
       args:
        - |
         print("HI Community LogaliGroup - SAP AI Core")
-
